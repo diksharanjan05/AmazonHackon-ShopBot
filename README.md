@@ -36,10 +36,10 @@ Once you enter the ASIN and submit, the application will start gathering reviews
 The generated content is displayed to you, providing valuable marketing insights based on customer reviews.
 
 ## Contributors
-Diksha Ranjan
+Diksha Ranjan,
+Madhurya R,
+Pragya,
 Shibu Kumari
-Pragya
-Madhurya R
 
 ## Acknowledgments
 Special thanks to the Amazon Hackon team for the inspiration behind this project and the support of the open-source community.
