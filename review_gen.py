@@ -92,7 +92,7 @@ def remove_directory(dir_path):
         print(f"Error: {e}")
 
 def gen_AI_magik(asin):
-    api_key = "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"
+    api_key = "your_api_key"
 
     # Initialize the OpenAI API client
     openai.api_key = api_key
