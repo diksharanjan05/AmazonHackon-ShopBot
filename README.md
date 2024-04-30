@@ -4,7 +4,7 @@
 Amazon Hackon Shopbot is an innovative project that combines the power of Python and Node.js to create a tool that gathers product reviews from Amazon and uses AI to generate marketing content based on these reviews. This tool provides users with a convenient way to leverage customer feedback for product descriptions, use cases, and positive phrases.
 
 ## Video to showcase the working
-https://drive.google.com/file/d/1EsBu2fpxJNmDZTGlL-gpxx5IFNpCzXRE/view?usp=drivesdk
+(https://drive.google.com/file/d/1O2Io1wnZhW34xGSRtoHwUqGR3tXDogou/view?usp=sharing)
 
 ## Getting Started
 To get started with this project, follow these steps:
